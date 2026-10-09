@@ -1,8 +1,10 @@
 # Program to add two numbers
 
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num1 = 10
+num2 = 20
 
 result = num1 + num2
 
-print("The sum of", num1, "and", num2, "is:", result)
+print("First number:", num1)
+print("Second number:", num2)
+print("Addition:", result)
